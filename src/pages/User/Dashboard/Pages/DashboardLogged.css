@@ -1,0 +1,13 @@
+.__contentCards{
+    padding-left: 1rem;
+    padding-top: .6rem;
+    display: flex;
+}
+
+.__contentDashBoard{
+    display: flex;
+    padding-top: 0rem;
+    height: 61rem;
+    width: 100%;
+    flex-direction: column;
+}

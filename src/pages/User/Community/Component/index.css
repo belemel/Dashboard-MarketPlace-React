@@ -1,0 +1,106 @@
+
+._divisionCardIndication{
+box-shadow: 0px 16px 24px rgba(0, 0, 0, 0.06), 0px 2px 6px rgba(0, 0, 0, 0.04), 0px 0px 1px rgba(0, 0, 0, 0.04);
+width: 16rem;
+height: 7rem;
+background-color: #FFFFFF;
+border-radius: 5px;
+display: flex;
+}
+
+.card-icon-indi{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+}
+
+.__iconUserIndi{
+    margin-right: 1.5rem;
+    margin-top: .2rem;
+}
+
+.__contentIndications{
+    display: flex;
+    justify-content: space-between;
+}
+
+.__totalIndications{
+    width: 55rem;
+}
+
+._searchCommunity{
+    width: 54.7rem;
+    height: 3.5rem;
+    color: #FFFFFF;
+    border-radius: 4px;
+    border: none;
+}
+
+.checkmark{
+    position: relative; 
+    height: 25px;
+    width: 25px; 
+    background-color: #eee;
+    border-radius: 2px;
+}
+
+.__tableIndications{
+    background-color: #FFFFFF;
+    width: 55rem;
+}
+
+._titleTableIndications{
+    padding-right: 1.3rem;
+}
+
+.__imagePerson{
+ 
+}
+
+.__imagePerson img{
+    max-width: 2rem;
+}
+
+._titleTableIndications{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    font-size: 1rem;
+    color: #334D6E;
+    opacity: 0.5;
+}
+
+.__nameTableIndications{
+    font-family: 'Poppins', sans-serif; 
+    font-weight: 500;
+    color: #323C47;
+    font-size: 1rem;
+}
+
+.__emailTableIndications{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400; 
+    font-size: 1rem; 
+    color: #707683;
+}
+
+.__celTableIndications{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400; 
+    font-size: 1rem; 
+    color: #707683;  
+}
+
+.__cashbackTableIndications{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500; 
+    font-size: 1rem; 
+    color: #707683;  
+}
+
+.__approvedTableIndications{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500; 
+    font-size: 1rem; 
+    color: #2CB67D;
+}
+
